@@ -2,14 +2,32 @@
 
 Welcome to the Surface Water Ambient Monitoring Program ([SWAMP](https://www.waterboards.ca.gov/water_issues/programs/swamp/)) Strategy!
 
-This is an online reference and resource written by and for the at the California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)).
+This is an online reference and resource written by the California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center ([SWAMP IQ](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)), and others in the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
 
-The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center ([SWAMP IQ](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)), and others in the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
+Content in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP's Science and Data Communication projects and Statewide Programs, including [Bioaccumulation](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html), [Bioassessment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/), [Freshwater Harmful Algal Blooms](https://mywaterquality.ca.gov/habs/index.html), and [Toxicity and Contaminants](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/) programs.
 
-Content in this manual includes curated information that members of the SWAMP Team have found helpful to support onboarding/offboarding, collaboration, communication, and our collective culture. It is a place to document institutional knowledge and provide references to available resources.
+Overarching programmatic strategies and drivers (i.e., State Water Board Strategic Plan, Open Data Resolution, etc.) are described in the About SWAMP section.
+
+For each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.
+
+## Mid-term Program Plans: 3-5 year plans
+
+-   Quality Assurance Program Plans
+-   Monitoring Plans
+-   Data Management
+-   Communication and Engagement Plans
+-   Multi-Year Budgets
+-   Monitoring Standard Operating Procedures (SOPs)
+-   Data Management and Analysis SOPs
+
+## Short-term Program Plans: 1 year
+
+-   Annual Monitoring Plan
+-   Annual Budget
+-   Individual Program Work Plan
+
+Other relevant program information including program partners and networks are also included.
 
 This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/swamp-manual/contribute.html) chapter.
-
-### **TEST**
 
 ![SWAMP logo](images/swamp-logo.jpg){width="200"} ![SWAMP iq logo](images/swamp-iq-logo.jpg){width="312"}
