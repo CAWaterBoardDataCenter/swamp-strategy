@@ -14,28 +14,7 @@ book:
   
     - index.qmd
     - about-swamp.qmd
-    
-    - part: Culture
-      chapters:
-        - values.qmd
-        - codeofconduct.qmd
-        - expectations.qmd
-        - development.qmd
-    
-    - part: Administrative goodies
-      chapters: 
-        - onboarding.qmd
-        - tech.qmd
-        - training.qmd
-        - travel.qmd
-        - procurement.qmd
-        - offboarding.qmd
-    
-    - lifecycle.qmd
-    - contacts.qmd
     - contribute.qmd
-    - inspiration.qmd
-    - references.qmd
     
   sidebar:
     style: "docked"
