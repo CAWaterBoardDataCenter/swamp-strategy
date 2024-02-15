@@ -4,7 +4,27 @@
     "href": "index.html",
     "title": "SWAMP Strategy",
     "section": "",
-    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by and for the at the California State Water Resources Control Board (State Water Board).\nThe SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this manual includes curated information that members of the SWAMP Team have found helpful to support onboarding/offboarding, collaboration, communication, and our collective culture. It is a place to document institutional knowledge and provide references to available resources.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.\n\nTEST",
+    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by the California State Water Resources Control Board (State Water Board) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP’s Science and Data Communication projects and Statewide Programs, including Bioaccumulation, Bioassessment, Freshwater Harmful Algal Blooms, and Toxicity and Contaminants programs.\nOverarching programmatic strategies and drivers (i.e., State Water Board Strategic Plan, Open Data Resolution, etc.) are described in the About SWAMP section.\nFor each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#mid-term-program-plans-3-5-year-plans",
+    "href": "index.html#mid-term-program-plans-3-5-year-plans",
+    "title": "SWAMP Strategy",
+    "section": "Mid-term Program Plans: 3-5 year plans",
+    "text": "Mid-term Program Plans: 3-5 year plans\n\nQuality Assurance Program Plans\nMonitoring Plans\nData Management\nCommunication and Engagement Plans\nMulti-Year Budgets\nMonitoring Standard Operating Procedures (SOPs)\nData Management and Analysis SOPs",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#short-term-program-plans-1-year",
+    "href": "index.html#short-term-program-plans-1-year",
+    "title": "SWAMP Strategy",
+    "section": "Short-term Program Plans: 1 year",
+    "text": "Short-term Program Plans: 1 year\n\nAnnual Monitoring Plan\nAnnual Budget\nIndividual Program Work Plan\n\nOther relevant program information including program partners and networks are also included.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.",
     "crumbs": [
       "Welcome!"
     ]
