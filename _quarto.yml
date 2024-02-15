@@ -2,40 +2,40 @@ project:
   type: book
 
 book:
-  title: "SWAMP Manual"
+  title: "SWAMP Strategy"
   author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
-  date: "2023-02-03"
+  date: "2024-03-01"
   search: true
-  repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
+  repo-url: https://github.com/CAWaterBoardDataCenter/swamp-strategy
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   chapters:
   
     - index.qmd
-    - about-swamp.qmd
     
-    - part: Culture
+    - part: SWAMP
       chapters:
-        - values.qmd
-        - codeofconduct.qmd
-        - expectations.qmd
-        - development.qmd
+        - about-swamp.qmd
+        
+    - part: Bioaccumulation
+      chapters:
+        - bioac-workplan.qmd
+        - bioac-network.qmd
     
-    - part: Administrative goodies
-      chapters: 
-        - onboarding.qmd
-        - tech.qmd
-        - training.qmd
-        - travel.qmd
-        - procurement.qmd
-        - offboarding.qmd
+    - part: Bioassessment
+      chapters:
+        - bioas-workplan.qmd
     
-    - lifecycle.qmd
-    - contacts.qmd
+    - part: FHABs
+      chapters:
+        - fhab-workplan.qmd
+        
+    - part: Toxicology & Contaminants
+      chapters:
+        - tox-workplan.qmd
+    
     - contribute.qmd
-    - inspiration.qmd
-    - references.qmd
     
   sidebar:
     style: "docked"
@@ -44,8 +44,6 @@ book:
     # background: "#002151"
     # foreground: "light"
     border: true
-
-bibliography: references.bib
 
 format:
   html:
