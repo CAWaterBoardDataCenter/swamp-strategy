@@ -13,7 +13,28 @@ book:
   chapters:
   
     - index.qmd
-    - about-swamp.qmd
+    
+    part: SWAMP
+      chapters:
+        - about-swamp.qmd
+        
+     part: Bioaccumulation
+      chapters:
+        - bioac-workplan.qmd
+        - bioac-network.qmd
+    
+    part: Bioassessment
+      chapters:
+        - bioas-workplan.qmd
+    
+    part: FHABs
+      chapters:
+        - fhab-workplan.qmd
+        
+    part: Toxicology & Contaminants
+      chapters:
+        - tox-workplan.qmd
+    
     - contribute.qmd
     
   sidebar:

@@ -1,0 +1,108 @@
+# Who are our partners?
+
+## Overview
+
+Understanding and addressing issues and impacts of bioaccumulation throughout all California waterbodes is nuanced and complex, and therefore requires multiple partners working together to achieve common goals. The [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) (Program) and [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html) (STEW) are highly collaborative, and we're always looking for [new collaborators and partners](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/swamp-stew.html#how-can-i-get-involved-with-swamp-bioaccumulation-monitoring-program-program-andor-the-safe-to-eat-workgroup-stew-activities)!
+
+## Partner Network
+
+Below is a visual representation of the partners currently in our network as well as descriptions of and links to partner websites.
+
+![Network map of STEW and Program partners](images/network_map.png){fig-alt="A visual representation of the partner organizations in the Program and STEW network."}
+
+### SWAMP Bioaccumulation Monitoring Program Contractors
+
+Moss Landing Marine Laboratories' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/): Our MLML/MPSL partners lead the sample collection and processing efforts.
+
+[San Francisco Estuary Institute (SFEI)](https://www.sfei.org/programs/cw): Our SFEI partners lead the data analysis, interpretation and reporting process, and help [Co-chair the STEW](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/#membership)!
+
+### Other SWAMP Programs
+
+[SWAMP Regional Monitoring Programs](https://www.waterboards.ca.gov/water_issues/programs/swamp/monitoring/regional_monitoring_programs/): Many Regional SWAMP Programs augment the efforts of the Statewide Bioaccumulation Monitoring Program, or conduct bioaccumulation related studies of their own to address regionally-specific water quality concerns.
+
+[SWAMP Information Management and Quality Assurance Center (SWAMP IQ)](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/): SWAMP IQ conducts a thorough quality assurance review and verification of all of our data before adding the data to our public data systems.
+
+[SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html): We're working with the FHAB Program to better understand the nexus between harmful algal blooms and bioaccumulation risks.
+
+[SWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)](https://experience.arcgis.com/experience/db3a30220d0d4bdea684781cdaef5230/page/Home/): We're beginning to work with SeMMAP to better understand the extent to which environmental DNA (eDNA) can be used to support our monitoring efforts. 
+
+### Other Monitoring Efforts
+
+Whenever possible, we try to collaborate with other bioaccumulation monitoring programs, including:
+
+-   [Regional Monitoring Program for Water Quality in San Francisco Bay (Bay RMP)](https://www.sfei.org/programs/sf-bay-regional-monitoring-program)
+-   [Southern California Bight Regional Monitoring Program (Bight RMP)](https://www.sccwrp.org/about/research-areas/regional-monitoring/southern-california-bight-regional-monitoring-program/)
+-   [The Delta Regional Monitoring Program (Delta RMP)](https://deltarmp.org/)
+-   [Marine Biotoxin Monitoring Program](https://www.cdph.ca.gov/Programs/CEH/DRSEM/pages/emb/shellfish/marine-biotoxin-monitoring-program.aspx)
+-   [US EPA National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys)
+    -   [The National Coastal Condition Assessment (NCCA)](https://www.epa.gov/national-aquatic-resource-surveys/ncca)
+    -   [The National Lakes Assessment (NLA)](https://www.epa.gov/national-aquatic-resource-surveys/nla)
+    -   [The National Rivers and Streams Assessment (NRSA)](https://www.epa.gov/national-aquatic-resource-surveys/nrsa)
+    -   [The National Wetland Condition Assessment (NWCA)](https://www.epa.gov/national-aquatic-resource-surveys/nwca)
+-   [Biomonitoring California](https://biomonitoring.ca.gov/)
+
+### Other California State Agencies
+
+We work closely with other CA State Agencies to make sure our data is used to protect public health, and is communicated effectively in the public health space so that those that are most impacted by consuming contaminated fish and shellfish can make informed decisions to reduce their exposure to harmful pollutants in fish and shellfish.
+
+-   The [Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/) is the lead state agency for the assessment of health risks posed by environmental contaminants. OEHHA uses our data to develop site specific and statewide [fish advisories](https://oehha.ca.gov/fish/advisories). 
+
+-   The [California Department of Public Health (CDPH)](https://www.cdph.ca.gov/) is the state department responsible for public health in California. We're building stronger relationships with some of their programs (e.g., [Center for Healthy Communities](https://www.cdph.ca.gov/Programs/CCDPHP/Pages/Program-Landing1.aspx)) to more efficiently and effectively achieve our respective missions.
+
+-   The [California Department of Fish and Wildlife (CDFW)](https://wildlife.ca.gov/) is the state department responsible for managing California's fish, wildlife, and plant resources, and the habitats upon which they depend. We're building stronger relationships with some of their programs (e.g., Regional monitoring experts, [Fishing in the City](https://wildlife.ca.gov/Fishing-in-the-City)) to more efficiently and effectively achieve our respective missions.
+
+### Other State and Regional Water Board Programs
+
+The State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards) are dedicated to a single mission:
+
+> To preserve, enhance, and restore the quality of California's water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.
+
+Under the federal Clean Water Act (CWA) and the state's pioneering Porter-Cologne Water Quality Control Act, the State and Regional Water Boards have regulatory responsibility for protecting the water quality of nearly 1.6 million acres of lakes, 1.3 million acres of bays and estuaries, 211,000 miles of rivers and streams, and about 1,100 miles of exquisite California coastline! 
+
+There are a number of programs that partner with us and/or use our data to inform their work, including:
+
+-   [Tribal Affairs](https://www.waterboards.ca.gov/about_us/public_participation/tribal_affairs/) and their [Tribal Beneficial Use](https://www.waterboards.ca.gov/about_us/public_participation/tribal_affairs/beneficial_uses.html) efforts
+-   [Statewide Mercury Control Program](https://www.waterboards.ca.gov/water_issues/programs/mercury/reservoirs/)
+-   [Integrated Report Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
+-   [TMDL Programs](https://www.waterboards.ca.gov/water_issues/programs/tmdl/)
+-   [Bacteria Objectives](https://www.waterboards.ca.gov/bacterialobjectives/)
+-   [Biostimulation, Cyanotoxins, and Biological Condition Provisions](https://www.waterboards.ca.gov/water_issues/programs/biostimulatory_substances_biointegrity/)
+-   [Ocean Standards Unit](https://www.waterboards.ca.gov/water_issues/programs/ocean/)
+-   [Wetlands Program](https://www.waterboards.ca.gov/water_issues/programs/cwa401/wrapp.html)
+-   [Constituents of Emerging Concern (CEC)](https://www.waterboards.ca.gov/water_issues/programs/cec/non_drinking_water.html)
+-   [Per- and Polyfluoroalkyl Substances (PFAS)](https://www.waterboards.ca.gov/pfas/)
+
+For more details on how our data are used in some of these programs, see:
+
+-   [How are bioaccumulation data used to protect and restore water quality in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-wq.html)
+-   [How are bioaccumulation data used to protect human health in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-human.html)
+-   [General bioaccumulation data use FAQs](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/data-use-faq.html)
+
+### California Native American Tribes & Tribal Organizations
+
+[California Indian Environmental Alliance (CIEA)](https://www.cieaweb.org/): We work closely with our CIEA partners on a number of bioaccumulation related projects. CIEA is also an active member of the STEW!
+
+We're working on building more relationships with California Native American Tribes through the Program's equity initiatives. See the [Tribal Engagement FAQ](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/swamp-stew.html#how-can-a-california-native-american-tribe-or-tribal-organization-request-a-meeting-to-learn-more-about-swamp-bioaccumulation-monitoring-program-andor-the-safe-to-eat-workgroup-activities) for more information on how tribes and tribal organizations can engage with the Program and/or the STEW.
+
+### Other California Water Quality Monitoring Council Workgroups
+
+[Equity Workgroup](https://mywaterquality.ca.gov/monitoring_council/jedi_workgroup/): STEW Co-chairs are actively involved with this Workgroup and its efforts to operationalize equity in all levels of the Council.
+
+We're working on building stronger partnerships with the following Workgroups:
+
+-   [California Cyanobacteria and Harmful Algal Bloom (CCHAB) Network](https://mywaterquality.ca.gov/monitoring_council/cyanohab_network/index.html)
+-   [California Estuary Monitoring Workgroup](https://mywaterquality.ca.gov/monitoring_council/estuary_workgroup/index.html)
+-   [California Water Quality Monitoring Collaboration Network](https://mywaterquality.ca.gov/monitoring_council/collaboration_network/index.html)
+-   [California Wetland Monitoring Workgroup](https://mywaterquality.ca.gov/monitoring_council/wetland_workgroup/index.html)
+-   [Healthy Watersheds Partnership](https://mywaterquality.ca.gov/monitoring_council/healthy_watersheds/index.html)
+-   [California Ocean & Coastal Ecosystem Workgroup](https://mywaterquality.ca.gov/monitoring_council/ocean_workgroup/index.html)
+
+### Academic Institutions
+
+We're working on building more relationships with the academic community so we can leverage our partnerships, advance needed research, and connect with emerging academics and future scientists and leaders of California! Partner academic institutions include:
+
+-   [CSU-WATER](https://www.calstate.edu/impact-of-the-csu/research/water) (Water Advocacy for Education and Research)
+    -   [CSU Northridge Water Science Lab](http://www.priyaganguli.com/)
+-   [CSU COAST](https://www.calstate.edu/impact-of-the-csu/research/coast) (Council on Ocean Affairs, Science & Technology)
+
+Are you at an academic institution conducting research related to bioaccumulation, fish advisory development, and/or statewide bioaccumulation monitoring efforts - but are not included in the list above? Please let us know by emailing the SWAMP Bioaccumulation Monitoring Program Coordinator & STEW Co-chair at [Anna.Holder\@waterboards.ca.gov](mailto:Anna.Holder@waterboards.ca.gov)!
