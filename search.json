@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SWAMP Strategy",
+    "section": "",
+    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by and for the at the California State Water Resources Control Board (State Water Board).\nThe SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this manual includes curated information that members of the SWAMP Team have found helpful to support onboarding/offboarding, collaboration, communication, and our collective culture. It is a place to document institutional knowledge and provide references to available resources.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.\n\nTEST",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html",
+    "href": "about-swamp.html",
+    "title": "1  About SWAMP",
+    "section": "",
+    "text": "1.1 Overview: SWAMP\nSWAMP sits within the Water Board’s Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board’s information management infrastructure.\nSWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions. In addition to providing information and tools, SWAMP’s vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.\nStatewide SWAMP Monitoring Programs include:",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#overview-swamp",
+    "href": "about-swamp.html#overview-swamp",
+    "title": "1  About SWAMP",
+    "section": "",
+    "text": "The SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California.\n\n\n\n\nBioaccumulation Monitoring Program\nBioassessment Program\nFreshwater and Estuarine HABs Program\nToxicology and Contaminants Program\n\n\n\n\n\n\n\nNote\n\n\n\nReminder to add icons and new links when ready",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#overview-swamp-iq",
+    "href": "about-swamp.html#overview-swamp-iq",
+    "title": "1  About SWAMP",
+    "section": "1.2 Overview: SWAMP IQ",
+    "text": "1.2 Overview: SWAMP IQ\n\nSWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California’s water bodies.\n\nSWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#swamp-resources",
+    "href": "about-swamp.html#swamp-resources",
+    "title": "1  About SWAMP",
+    "section": "1.3 SWAMP Resources",
+    "text": "1.3 SWAMP Resources\n\n\n\nPurpose\nTitle & Weblink\n\n\n\n\nOverview of SWAMP\nSWAMP Website\n\n\nOverview of SWAMP IQ\nSWAMP IQ Website\n\n\nCurrent SWAMP program priorities and strategies\nSWAMP Strategic Action Plan, 2020-2023\n\n\nDetailed overview of SWAMP monitoring standards and requirements\nSWAMP Quality Assurance Program Plan (QAPP), 2022-2024\n\n\nOverview of OIMA\nOIMA Website\n\n\nStrategic actions to improve the way the Water Boards use data and information about CA water resources\nState Water Resources Control Board Strategic Data Action Plan (SDAP), draft\n\n\nProjects carried out in the SDAP\nState Water Resources Control Board SDAP, project portfolio summaries",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "2  Contributing",
+    "section": "",
+    "text": "2.1 Who can contribute\nCurrently, only members of the SWAMP Team are able to actively contribute to this manual.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contribute.html#how-we-contribute",
+    "href": "contribute.html#how-we-contribute",
+    "title": "2  Contributing",
+    "section": "2.2 How we contribute",
+    "text": "2.2 How we contribute\nWe develop the content for this SWAMP Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nIf you are NOT a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please [TBD].\n\n2.2.1 Setup\nTo contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  }
+]
