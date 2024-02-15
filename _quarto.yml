@@ -14,24 +14,24 @@ book:
   
     - index.qmd
     
-    part: SWAMP
+    - part: SWAMP
       chapters:
         - about-swamp.qmd
         
-     part: Bioaccumulation
+    - part: Bioaccumulation
       chapters:
         - bioac-workplan.qmd
         - bioac-network.qmd
     
-    part: Bioassessment
+    - part: Bioassessment
       chapters:
         - bioas-workplan.qmd
     
-    part: FHABs
+    - part: FHABs
       chapters:
         - fhab-workplan.qmd
         
-    part: Toxicology & Contaminants
+    - part: Toxicology & Contaminants
       chapters:
         - tox-workplan.qmd
     
