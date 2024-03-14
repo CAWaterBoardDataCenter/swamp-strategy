@@ -1,0 +1,32 @@
+# Toxicology & Contaminants Workplan
+
+## Introduction & Workplan Purpose
+
+Intro text blah blah blah.... SO GREAT!
+
+SOME OF THIS MIGHT BE MOVED TO BROADER SWAMP INTRO
+
+This strategic work plan lays out actions to advance SWAMP's four thematic priorities and subsidiary goals, which are listed below.
+
+Structure inspiration: <https://www.waterboards.ca.gov/board_info/priorities/docs/workplan_2023.pdf>
+
+## Strategic Themes 
+
+Background & note that there are things we are always working on an maintaing (e.g. monitoring, SWAMP IQ data process, program management) - below we have highlighted additional projects/actions that staff will tackle in addition to general stuuuf.
+
+For each action below, acronyms in brackets list the main responsible organizations within the State Water Board; acronyms are defined at the end of this document. Note the State Water Board’s priorities are subject to change based on need. Also note this work plan does not include everything related to the State Water Board’s core workload or Regional Water Board efforts.
+
+Key:
+\* = highest-priority actions to work on or complete in 2023
+
+### Program Management
+
+#### Project 1: 1 sentence description of project
+
+##### Task/Action 1.1: 1-2 sentence description of task
+
+### Monitoring
+
+### Data Quality & Management
+
+### Communication & Engagement
