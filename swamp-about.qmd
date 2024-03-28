@@ -51,7 +51,7 @@ Reference - State Water Board Strategic Plan, Open Data Resolution, etc.
 
 Water Board monitoring data and information are used to inform decisions that help protect and restore California watersheds, and to provide California communities with easy to find, up to date information about the conditions of their local lakes, rivers and streams.
 
-### Our Mission	
+### Our Mission
 
 Our mission is to generate high quality, accessible, and usable data and information that is used to protect and restore California’s watersheds, and to inform California communities about local conditions of waterbodies monitored by SWAMP.
 
@@ -84,7 +84,7 @@ Add table from SWAMP Manual?
 *Best to integrate links below into text above and delete this section altogether*
 
 | Purpose                                                                                                 | Webpage                                                                                                                                                                       |
-|------------------------------|------------------------------------------|
+|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Overview of SWAMP                                                                                       | [SWAMP Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/)                                                                                                  |
 | Overview of SWAMP IQ                                                                                    | [SWAMP IQ Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq)                                                                                       |
 | Current SWAMP program priorities and strategies                                                         | [SWAMP Strategic Action Plan, 2020-2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit?usp=sharing&ouid=118425894617420506258&rtpof=true&sd=true) |

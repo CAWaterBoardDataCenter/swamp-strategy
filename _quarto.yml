@@ -21,6 +21,7 @@ book:
         
     - part: Bioaccumulation
       chapters:
+        - bioac-about.qmd
         - bioac-workplan.qmd
         - bioac-network.qmd
     
