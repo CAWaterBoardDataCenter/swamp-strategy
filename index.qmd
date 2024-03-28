@@ -10,13 +10,13 @@ Content in this SWAMP Strategy includes strategic and tactical planning document
 
 -   **Strategic Planning Pages** - provide descriptions of strategic priorities and associated projects/actions to advance SWAMP's Vision and thematic priorities.
 
-    -   [SWAMP Strategic Priorities]{.underline} - describe overarching priorities SWAMP has set for all Projects and Programs over the specified time frame, *in addition to* core workload or efforts required for standard operations and maintenance.
+    -   [[SWAMP Strategic Priorities]{.underline}](https://cawaterboarddatacenter.github.io/swamp-strategy/prioriites.html) - describe overarching priorities SWAMP has set for all Projects and Programs over the specified time frame, *in addition to* core workload or efforts required for standard operations and maintenance.
 
     -   [Workplans]{.underline} - describe strategic projects and actions to advance SWAMP's four thematic priorities and vision.
 
 -   **Partner Pages** - provide an overview of key partners for each Program/Project
 
-*Recommend deleting the text below and/or integrating into other pages*
+*Recommend deleting the text below (except for Quarto paragraph & logos) and/or integrating into other pages*
 
 For each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.
 

@@ -2,7 +2,7 @@
 
 This Workplan for the SWAMP Statewide [Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) describes strategic projects and actions the Progam intends to implement to advance SWAMP's four thematic priorities and vision.
 
-All of the Program's priority projects and associated actions are categorized under SWWAMP's four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) \[ ADD LINK TO PAGE\]
+All of the Program's priority projects and associated actions are categorized under SWWAMP's four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see [SWAMP Priorities (2025-2030)](https://cawaterboarddatacenter.github.io/swamp-strategy/prioriites.html).
 
 Key: \* = highest-priority actions for the current strategic planning period (2025 - 2030)
 
