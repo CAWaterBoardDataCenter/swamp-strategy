@@ -1,23 +1,10 @@
-# Toxicology & Contaminants Workplan
+# Workplan
 
-## Introduction & Workplan Purpose
+This Workplan for the SWAMP Statewide [Toxicology & Contaminants (T&C) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/) describes strategic projects and actions the Progam intends to implement to advance SWAMP's four thematic priorities and vision.
 
-Intro text blah blah blah.... SO GREAT!
+All of the T&C Program's priority projects and associated actions are categorized under SWWAMP's four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) \[ ADD LINK TO PAGE\]
 
-SOME OF THIS MIGHT BE MOVED TO BROADER SWAMP INTRO
-
-This strategic work plan lays out actions to advance SWAMP's four thematic priorities and subsidiary goals, which are listed below.
-
-Structure inspiration: <https://www.waterboards.ca.gov/board_info/priorities/docs/workplan_2023.pdf>
-
-## Strategic Themes 
-
-Background & note that there are things we are always working on an maintaing (e.g. monitoring, SWAMP IQ data process, program management) - below we have highlighted additional projects/actions that staff will tackle in addition to general stuuuf.
-
-For each action below, acronyms in brackets list the main responsible organizations within the State Water Board; acronyms are defined at the end of this document. Note the State Water Board’s priorities are subject to change based on need. Also note this work plan does not include everything related to the State Water Board’s core workload or Regional Water Board efforts.
-
-Key:
-\* = highest-priority actions to work on or complete in 2023
+Key: \* = highest-priority actions for the current strategic planning period (2025 - 2030)
 
 ### Program Management
 
@@ -27,6 +14,18 @@ Key:
 
 ### Monitoring
 
+#### Project 2: 1 sentence description of project
+
+##### Task/Action 2.1: 1-2 sentence description of task
+
 ### Data Quality & Management
 
+#### Project 3: 1 sentence description of project
+
+##### Task/Action 3.1: 1-2 sentence description of task
+
 ### Communication & Engagement
+
+#### Project 4: 1 sentence description of project
+
+##### Task/Action 4.1: 1-2 sentence description of task

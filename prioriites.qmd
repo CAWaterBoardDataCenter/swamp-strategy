@@ -1,0 +1,37 @@
+# Strategic Priorities (2025 - 2030)
+
+Structure inspiration: <https://www.waterboards.ca.gov/board_info/priorities/docs/workplan_2023.pdf>
+
+The priorities and associated statewide work plans do not include everything related to the core workload or efforts required to operate and maintain SWAMP, SWAMP IQ and Statewide Monitoring Programs (e.g. monitoring, data processing, program management) . Additionally, the below priorities are subject to change based on need.
+
+Below we have highlighted *additional* priorities that staff will tackle in addition to core efforts.
+
+## Strategic Themes
+
+All of SWAMP's strategic priorities are categorized under the four themes described below.
+
+### **Program Management**
+
+Related to: planning, budgets, contracts, etc.
+
+### **Monitoring**
+
+Related to: data collection & analysis + data use/assessment
+
+### **Data Quality & Management**
+
+Related to: QAQC, storage, sharing, etc.
+
+### **Communication & Engagement**
+
+Related to: how we communicate using our data and with our partners & the public
+
+## SWAMP Strategic Priorities (2025 - 2030)
+
+*Pulled from SWAMP SAP - potentially delete this section if we can describe adequately in above thematic sections*
+
+1.  Align monitoring and assessment efforts with Water Board Programs and public needs.
+
+2.  Establish and maintain effective coordination and communication systems and processes.
+
+3.  Develop and share user-centered resources, training, and tools. 

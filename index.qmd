@@ -4,9 +4,19 @@ Welcome to the Surface Water Ambient Monitoring Program ([SWAMP](https://www.wat
 
 This is an online reference and resource written by the California State Water Resources Control Board ([State Water Board](https://www.waterboards.ca.gov/)) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center ([SWAMP IQ](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)), and others in the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)).
 
-Content in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP's Science and Data Communication projects and Statewide Programs, including [Bioaccumulation](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html), [Bioassessment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/), [Freshwater Harmful Algal Blooms](https://mywaterquality.ca.gov/habs/index.html), and [Toxicity and Contaminants](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/) programs.
+Content in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP's Science and Data Communication projects and Statewide Programs (e.g., [Bioaccumulation](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html), [Bioassessment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/), [Freshwater Harmful Algal Blooms](https://mywaterquality.ca.gov/habs/index.html), and [Toxicity and Contaminants](https://www.waterboards.ca.gov/water_issues/programs/swamp/spot/)), including:
 
-Overarching programmatic strategies and drivers (i.e., State Water Board Strategic Plan, Open Data Resolution, etc.) are described in the About SWAMP section.
+-   **About Pages** - provide brief background to Program or Project, including a description of core principles and programmatic drivers, and a list of key contacts (e.g. [About SWAMP](https://cawaterboarddatacenter.github.io/swamp-strategy/about-swamp.html))
+
+-   **Strategic Planning Pages** - provide descriptions of strategic priorities and associated projects/actions to advance SWAMP's Vision and thematic priorities.
+
+    -   [SWAMP Strategic Priorities]{.underline} - describe overarching priorities SWAMP has set for all Projects and Programs over the specified time frame, *in addition to* core workload or efforts required for standard operations and maintenance.
+
+    -   [Workplans]{.underline} - describe strategic projects and actions to advance SWAMP's four thematic priorities and vision.
+
+-   **Partner Pages** - provide an overview of key partners for each Program/Project
+
+*Recommend deleting the text below and/or integrating into other pages*
 
 For each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.
 

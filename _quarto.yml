@@ -17,6 +17,7 @@ book:
     - part: SWAMP
       chapters:
         - about-swamp.qmd
+        - prioriites.qmd
         
     - part: Bioaccumulation
       chapters:

@@ -1,6 +1,6 @@
 # About SWAMP
 
-## Overview: SWAMP
+## SWAMP
 
 SWAMP sits within the Water Board's Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board's information management infrastructure.
 
@@ -19,16 +19,72 @@ Statewide SWAMP Monitoring Programs include:
 Reminder to add icons and new links when ready
 :::
 
-## Overview: SWAMP IQ
+## SWAMP IQ
+
+SWAMP IQ assists SWAMP Statewide and Regional monitoring programs, and other ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.
 
 > SWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California's water bodies.
 
-SWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.
+## Core Principles
 
-## SWAMP Resources
+::: callout-tip
+Values = **WHO** we are and the foundation of how we work
 
-| Purpose                                                                                                 | Title & Weblink                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Purpose = **WHY** we do what we do
+
+Vision = **WHERE** we want to go
+
+Mission = **HOW** we work to achieve our vision
+
+Paragraphs below were pulled from existing SWAMP SAP - AH recommends reviewing and revising to make more succinct (\~1 sentence each) and better aligned with descriptions above.
+:::
+
+### Our Values
+
+Link to OIMA & Water Boards value documents and describe how we apply those to SWAMP
+
+### Our Purpose
+
+Reference - State Water Board Strategic Plan, Open Data Resolution, etc.
+
+### Our Vision
+
+Water Board monitoring data and information are used to inform decisions that help protect and restore California watersheds, and to provide California communities with easy to find, up to date information about the conditions of their local lakes, rivers and streams.
+
+### Our Mission	
+
+Our mission is to generate high quality, accessible, and usable data and information that is used to protect and restore California’s watersheds, and to inform California communities about local conditions of waterbodies monitored by SWAMP.
+
+### Guiding Principles 
+
+SWAMP has established the following guiding principles as the foundation upon which to prioritize its actions (SWAMP Strategy, 2010):
+
+-   SWAMP monitoring evaluates the physical, chemical, and biological integrity of California’s waters.
+
+-   Monitoring and assessment at both statewide and regional levels is necessary to protect and restore water quality.
+
+-   Monitoring of both high-quality waters and those known or suspected to be degraded is essential to a robust ambient monitoring program.
+
+-   Monitoring is designed to support a network of information users that include state, federal, and local agencies, the regulated community, the interested public, and their elected representatives.
+
+-   Monitoring efforts are prioritized and coordinated to maximize utility and minimize costs.
+
+-   SWAMP seeks to make the most efficient use of data collected by all Water Board programs, as well as the large amount of data collected by other agencies and the regulated community.
+
+## Background & History
+
+Pull from SWAMP SAP?
+
+## Key Contacts
+
+Add table from SWAMP Manual?
+
+## Key Resources
+
+*Best to integrate links below into text above and delete this section altogether*
+
+| Purpose                                                                                                 | Webpage                                                                                                                                                                       |
+|------------------------------|------------------------------------------|
 | Overview of SWAMP                                                                                       | [SWAMP Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/)                                                                                                  |
 | Overview of SWAMP IQ                                                                                    | [SWAMP IQ Website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq)                                                                                       |
 | Current SWAMP program priorities and strategies                                                         | [SWAMP Strategic Action Plan, 2020-2023](https://docs.google.com/document/d/1g08L8GUHdEMLCxNS1vppNEXobf4bYOmK/edit?usp=sharing&ouid=118425894617420506258&rtpof=true&sd=true) |
