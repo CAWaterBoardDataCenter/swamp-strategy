@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "SWAMP Strategy",
     "section": "",
-    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by the California State Water Resources Control Board (State Water Board) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP’s Science and Data Communication projects and Statewide Programs (e.g., Bioaccumulation, Bioassessment, Freshwater Harmful Algal Blooms, and Toxicity and Contaminants), including:\nRecommend deleting the text below and/or integrating into other pages\nFor each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.",
+    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by the California State Water Resources Control Board (State Water Board) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP’s Science and Data Communication projects and Statewide Programs (e.g., Bioaccumulation, Bioassessment, Freshwater Harmful Algal Blooms, and Toxicity and Contaminants), including:\nRecommend deleting the text below (except for Quarto paragraph & logos) and/or integrating into other pages\nFor each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.",
     "crumbs": [
       "Welcome!"
     ]
@@ -144,7 +144,7 @@
     "href": "bioac-workplan.html",
     "title": "3  Workplan",
     "section": "",
-    "text": "This Workplan for the SWAMP Statewide Bioaccumulation Monitoring Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) [ ADD LINK TO PAGE]\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n3.0.1 Program Management\n\n3.0.1.1 Project 1: 1 sentence description of project\n\n3.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n3.0.2 Monitoring\n\n3.0.2.1 Project 2: 1 sentence description of project\n\n3.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n3.0.3 Data Quality & Management\n\n3.0.3.1 Project 3: 1 sentence description of project\n\n3.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n3.0.4 Communication & Engagement\n\n3.0.4.1 Project 4: 1 sentence description of project\n\n3.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
+    "text": "This Workplan for the SWAMP Statewide Bioaccumulation Monitoring Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030).\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n3.0.1 Program Management\n\n3.0.1.1 Project 1: 1 sentence description of project\n\n3.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n3.0.2 Monitoring\n\n3.0.2.1 Project 2: 1 sentence description of project\n\n3.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n3.0.3 Data Quality & Management\n\n3.0.3.1 Project 3: 1 sentence description of project\n\n3.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n3.0.4 Communication & Engagement\n\n3.0.4.1 Project 4: 1 sentence description of project\n\n3.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
     "crumbs": [
       "Bioaccumulation",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Workplan</span>"
@@ -173,11 +173,33 @@
     ]
   },
   {
+    "objectID": "bioas-workplan.html",
+    "href": "bioas-workplan.html",
+    "title": "5  Workplan",
+    "section": "",
+    "text": "This Workplan for the SWAMP Statewide Bioassessment Monitoring Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030).\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n5.0.1 Program Management\n\n5.0.1.1 Project 1: 1 sentence description of project\n\n5.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n5.0.2 Monitoring\n\n5.0.2.1 Project 2: 1 sentence description of project\n\n5.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n5.0.3 Data Quality & Management\n\n5.0.3.1 Project 3: 1 sentence description of project\n\n5.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n5.0.4 Communication & Engagement\n\n5.0.4.1 Project 4: 1 sentence description of project\n\n5.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
+    "crumbs": [
+      "Bioassessment",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Workplan</span>"
+    ]
+  },
+  {
+    "objectID": "fhab-workplan.html",
+    "href": "fhab-workplan.html",
+    "title": "6  Workplan",
+    "section": "",
+    "text": "This Workplan for the SWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030).\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n6.0.1 Program Management\n\n6.0.1.1 Project 1: 1 sentence description of project\n\n6.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n6.0.2 Monitoring\n\n6.0.2.1 Project 2: 1 sentence description of project\n\n6.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n6.0.3 Data Quality & Management\n\n6.0.3.1 Project 3: 1 sentence description of project\n\n6.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n6.0.4 Communication & Engagement\n\n6.0.4.1 Project 4: 1 sentence description of project\n\n6.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
+    "crumbs": [
+      "FHABs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Workplan</span>"
+    ]
+  },
+  {
     "objectID": "tox-workplan.html",
     "href": "tox-workplan.html",
     "title": "7  Workplan",
     "section": "",
-    "text": "This Workplan for the SWAMP Statewide Toxicology & Contaminants (T&C) Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the T&C Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) [ ADD LINK TO PAGE]\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n7.0.1 Program Management\n\n7.0.1.1 Project 1: 1 sentence description of project\n\n7.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n7.0.2 Monitoring\n\n7.0.2.1 Project 2: 1 sentence description of project\n\n7.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n7.0.3 Data Quality & Management\n\n7.0.3.1 Project 3: 1 sentence description of project\n\n7.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n7.0.4 Communication & Engagement\n\n7.0.4.1 Project 4: 1 sentence description of project\n\n7.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
+    "text": "This Workplan for the SWAMP Statewide Toxicology & Contaminants (T&C) Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the T&C Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030).\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n7.0.1 Program Management\n\n7.0.1.1 Project 1: 1 sentence description of project\n\n7.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n7.0.2 Monitoring\n\n7.0.2.1 Project 2: 1 sentence description of project\n\n7.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n7.0.3 Data Quality & Management\n\n7.0.3.1 Project 3: 1 sentence description of project\n\n7.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n7.0.4 Communication & Engagement\n\n7.0.4.1 Project 4: 1 sentence description of project\n\n7.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
     "crumbs": [
       "Toxicology & Contaminants",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Workplan</span>"
