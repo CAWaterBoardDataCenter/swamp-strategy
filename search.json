@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "SWAMP Strategy",
     "section": "",
-    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by the California State Water Resources Control Board (State Water Board) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP’s Science and Data Communication projects and Statewide Programs, including Bioaccumulation, Bioassessment, Freshwater Harmful Algal Blooms, and Toxicity and Contaminants programs.\nOverarching programmatic strategies and drivers (i.e., State Water Board Strategic Plan, Open Data Resolution, etc.) are described in the About SWAMP section.\nFor each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.",
+    "text": "Welcome!\nWelcome to the Surface Water Ambient Monitoring Program (SWAMP) Strategy!\nThis is an online reference and resource written by the California State Water Resources Control Board (State Water Board) SWAMP Team. The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\nContent in this SWAMP Strategy includes strategic and tactical planning documentation for SWAMP’s Science and Data Communication projects and Statewide Programs (e.g., Bioaccumulation, Bioassessment, Freshwater Harmful Algal Blooms, and Toxicity and Contaminants), including:\nRecommend deleting the text below and/or integrating into other pages\nFor each of the statewide programs and projects, planning documentation is organized into two broad categories (1) mid-term program plans and (2) short-term program plans.",
     "crumbs": [
       "Welcome!"
     ]
@@ -34,15 +34,15 @@
     "href": "about-swamp.html",
     "title": "1  About SWAMP",
     "section": "",
-    "text": "1.1 Overview: SWAMP\nSWAMP sits within the Water Board’s Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board’s information management infrastructure.\nSWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions. In addition to providing information and tools, SWAMP’s vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.\nStatewide SWAMP Monitoring Programs include:",
+    "text": "1.1 SWAMP\nSWAMP sits within the Water Board’s Office of Information Management and Analysis (OIMA), which serves as an advocate for data management, a bridge between data collectors and users, as well as, provides transparency of the Water Board’s information management infrastructure.\nSWAMP accomplishes this through carefully designed, externally reviewed statewide and regional surface water monitoring programs, and by assisting other entities state-wide in the generation of comparable data that can be brought together in integrated assessments that provide answers to current management questions. In addition to providing information and tools, SWAMP’s vision is to help enhance monitoring, assessment and reporting activities throughout the Water Boards.\nStatewide SWAMP Monitoring Programs include:",
     "crumbs": [
       "SWAMP",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
     ]
   },
   {
-    "objectID": "about-swamp.html#overview-swamp",
-    "href": "about-swamp.html#overview-swamp",
+    "objectID": "about-swamp.html#swamp",
+    "href": "about-swamp.html#swamp",
     "title": "1  About SWAMP",
     "section": "",
     "text": "The SWAMP mission is to provide resource managers, decision makers, and the public with timely, high-quality data, information and tools needed to evaluate the condition of all surface waters throughout California.\n\n\n\n\nBioaccumulation Monitoring Program\nBioassessment Program\nFreshwater and Estuarine HABs Program\nToxicology and Contaminants Program\n\n\n\n\n\n\n\nNote\n\n\n\nReminder to add icons and new links when ready",
@@ -52,89 +52,155 @@
     ]
   },
   {
-    "objectID": "about-swamp.html#overview-swamp-iq",
-    "href": "about-swamp.html#overview-swamp-iq",
+    "objectID": "about-swamp.html#swamp-iq",
+    "href": "about-swamp.html#swamp-iq",
     "title": "1  About SWAMP",
-    "section": "1.2 Overview: SWAMP IQ",
-    "text": "1.2 Overview: SWAMP IQ\n\nSWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California’s water bodies.\n\nSWAMP IQ assists ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.",
+    "section": "1.2 SWAMP IQ",
+    "text": "1.2 SWAMP IQ\nSWAMP IQ assists SWAMP Statewide and Regional monitoring programs, and other ambient monitoring projects and programs throughout the state by offering resources that support each stage of water quality monitoring, from sample collection to data entry, as well as providing quality assurance review, verification, and data storage.\n\nSWAMP IQ strives to promote question-driven monitoring, and to ensure the highest quality data is used to evaluate the health of California’s water bodies.",
     "crumbs": [
       "SWAMP",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
     ]
   },
   {
-    "objectID": "about-swamp.html#swamp-resources",
-    "href": "about-swamp.html#swamp-resources",
+    "objectID": "about-swamp.html#core-principles",
+    "href": "about-swamp.html#core-principles",
     "title": "1  About SWAMP",
-    "section": "1.3 SWAMP Resources",
-    "text": "1.3 SWAMP Resources\n\n\n\nPurpose\nTitle & Weblink\n\n\n\n\nOverview of SWAMP\nSWAMP Website\n\n\nOverview of SWAMP IQ\nSWAMP IQ Website\n\n\nCurrent SWAMP program priorities and strategies\nSWAMP Strategic Action Plan, 2020-2023\n\n\nDetailed overview of SWAMP monitoring standards and requirements\nSWAMP Quality Assurance Program Plan (QAPP), 2022-2024\n\n\nOverview of OIMA\nOIMA Website\n\n\nStrategic actions to improve the way the Water Boards use data and information about CA water resources\nState Water Resources Control Board Strategic Data Action Plan (SDAP), draft\n\n\nProjects carried out in the SDAP\nState Water Resources Control Board SDAP, project portfolio summaries",
+    "section": "1.3 Core Principles",
+    "text": "1.3 Core Principles\n\n\n\n\n\n\nTip\n\n\n\nValues = WHO we are and the foundation of how we work\nPurpose = WHY we do what we do\nVision = WHERE we want to go\nMission = HOW we work to achieve our vision\nParagraphs below were pulled from existing SWAMP SAP - AH recommends reviewing and revising to make more succinct (~1 sentence each) and better aligned with descriptions above.\n\n\n\n1.3.1 Our Values\nLink to OIMA & Water Boards value documents and describe how we apply those to SWAMP\n\n\n1.3.2 Our Purpose\nReference - State Water Board Strategic Plan, Open Data Resolution, etc.\n\n\n1.3.3 Our Vision\nWater Board monitoring data and information are used to inform decisions that help protect and restore California watersheds, and to provide California communities with easy to find, up to date information about the conditions of their local lakes, rivers and streams.\n\n\n1.3.4 Our Mission\nOur mission is to generate high quality, accessible, and usable data and information that is used to protect and restore California’s watersheds, and to inform California communities about local conditions of waterbodies monitored by SWAMP.\n\n\n1.3.5 Guiding Principles \nSWAMP has established the following guiding principles as the foundation upon which to prioritize its actions (SWAMP Strategy, 2010):\n\nSWAMP monitoring evaluates the physical, chemical, and biological integrity of California’s waters.\nMonitoring and assessment at both statewide and regional levels is necessary to protect and restore water quality.\nMonitoring of both high-quality waters and those known or suspected to be degraded is essential to a robust ambient monitoring program.\nMonitoring is designed to support a network of information users that include state, federal, and local agencies, the regulated community, the interested public, and their elected representatives.\nMonitoring efforts are prioritized and coordinated to maximize utility and minimize costs.\nSWAMP seeks to make the most efficient use of data collected by all Water Board programs, as well as the large amount of data collected by other agencies and the regulated community.",
     "crumbs": [
       "SWAMP",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#background-history",
+    "href": "about-swamp.html#background-history",
+    "title": "1  About SWAMP",
+    "section": "1.4 Background & History",
+    "text": "1.4 Background & History\nPull from SWAMP SAP?",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#key-contacts",
+    "href": "about-swamp.html#key-contacts",
+    "title": "1  About SWAMP",
+    "section": "1.5 Key Contacts",
+    "text": "1.5 Key Contacts\nAdd table from SWAMP Manual?",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "about-swamp.html#key-resources",
+    "href": "about-swamp.html#key-resources",
+    "title": "1  About SWAMP",
+    "section": "1.6 Key Resources",
+    "text": "1.6 Key Resources\nBest to integrate links below into text above and delete this section altogether\n\n\n\nPurpose\nWebpage\n\n\n\n\nOverview of SWAMP\nSWAMP Website\n\n\nOverview of SWAMP IQ\nSWAMP IQ Website\n\n\nCurrent SWAMP program priorities and strategies\nSWAMP Strategic Action Plan, 2020-2023\n\n\nDetailed overview of SWAMP monitoring standards and requirements\nSWAMP Quality Assurance Program Plan (QAPP), 2022-2024\n\n\nOverview of OIMA\nOIMA Website\n\n\nStrategic actions to improve the way the Water Boards use data and information about CA water resources\nState Water Resources Control Board Strategic Data Action Plan (SDAP), draft\n\n\nProjects carried out in the SDAP\nState Water Resources Control Board SDAP, project portfolio summaries",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>About SWAMP</span>"
+    ]
+  },
+  {
+    "objectID": "prioriites.html",
+    "href": "prioriites.html",
+    "title": "2  Strategic Priorities (2025 - 2030)",
+    "section": "",
+    "text": "2.1 Strategic Themes\nAll of SWAMP’s strategic priorities are categorized under the four themes described below.",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Strategic Priorities (2025 - 2030)</span>"
+    ]
+  },
+  {
+    "objectID": "prioriites.html#strategic-themes",
+    "href": "prioriites.html#strategic-themes",
+    "title": "2  Strategic Priorities (2025 - 2030)",
+    "section": "",
+    "text": "2.1.1 Program Management\nRelated to: planning, budgets, contracts, etc.\n\n\n2.1.2 Monitoring\nRelated to: data collection & analysis + data use/assessment\n\n\n2.1.3 Data Quality & Management\nRelated to: QAQC, storage, sharing, etc.\n\n\n2.1.4 Communication & Engagement\nRelated to: how we communicate using our data and with our partners & the public",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Strategic Priorities (2025 - 2030)</span>"
+    ]
+  },
+  {
+    "objectID": "prioriites.html#swamp-strategic-priorities-2025---2030",
+    "href": "prioriites.html#swamp-strategic-priorities-2025---2030",
+    "title": "2  Strategic Priorities (2025 - 2030)",
+    "section": "2.2 SWAMP Strategic Priorities (2025 - 2030)",
+    "text": "2.2 SWAMP Strategic Priorities (2025 - 2030)\nPulled from SWAMP SAP - potentially delete this section if we can describe adequately in above thematic sections\n\nAlign monitoring and assessment efforts with Water Board Programs and public needs.\nEstablish and maintain effective coordination and communication systems and processes.\nDevelop and share user-centered resources, training, and tools.",
+    "crumbs": [
+      "SWAMP",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Strategic Priorities (2025 - 2030)</span>"
+    ]
+  },
+  {
+    "objectID": "bioac-workplan.html",
+    "href": "bioac-workplan.html",
+    "title": "3  Workplan",
+    "section": "",
+    "text": "This Workplan for the SWAMP Statewide Bioaccumulation Monitoring Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) [ ADD LINK TO PAGE]\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n3.0.1 Program Management\n\n3.0.1.1 Project 1: 1 sentence description of project\n\n3.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n3.0.2 Monitoring\n\n3.0.2.1 Project 2: 1 sentence description of project\n\n3.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n3.0.3 Data Quality & Management\n\n3.0.3.1 Project 3: 1 sentence description of project\n\n3.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n3.0.4 Communication & Engagement\n\n3.0.4.1 Project 4: 1 sentence description of project\n\n3.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
+    "crumbs": [
+      "Bioaccumulation",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Workplan</span>"
     ]
   },
   {
     "objectID": "bioac-network.html",
     "href": "bioac-network.html",
-    "title": "3  Who are our partners?",
+    "title": "4  Partners",
     "section": "",
-    "text": "3.1 Overview\nUnderstanding and addressing issues and impacts of bioaccumulation throughout all California waterbodes is nuanced and complex, and therefore requires multiple partners working together to achieve common goals. The SWAMP Bioaccumulation Monitoring Program (Program) and Safe to Eat Workgroup (STEW) are highly collaborative, and we’re always looking for new collaborators and partners!",
+    "text": "4.1 Overview\nUnderstanding and addressing issues and impacts of bioaccumulation throughout all California waterbodes is nuanced and complex, and therefore requires multiple partners working together to achieve common goals. The SWAMP Bioaccumulation Monitoring Program (Program) and Safe to Eat Workgroup (STEW) are highly collaborative, and we’re always looking for new collaborators and partners!",
     "crumbs": [
       "Bioaccumulation",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who are our partners?</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Partners</span>"
     ]
   },
   {
     "objectID": "bioac-network.html#partner-network",
     "href": "bioac-network.html#partner-network",
-    "title": "3  Who are our partners?",
-    "section": "3.2 Partner Network",
-    "text": "3.2 Partner Network\nBelow is a visual representation of the partners currently in our network as well as descriptions of and links to partner websites.\n\n\n\nNetwork map of STEW and Program partners\n\n\n\n3.2.1 SWAMP Bioaccumulation Monitoring Program Contractors\nMoss Landing Marine Laboratories’ (MLML) Marine Pollution Studies Laboratory (MPSL): Our MLML/MPSL partners lead the sample collection and processing efforts.\nSan Francisco Estuary Institute (SFEI): Our SFEI partners lead the data analysis, interpretation and reporting process, and help Co-chair the STEW!\n\n\n3.2.2 Other SWAMP Programs\nSWAMP Regional Monitoring Programs: Many Regional SWAMP Programs augment the efforts of the Statewide Bioaccumulation Monitoring Program, or conduct bioaccumulation related studies of their own to address regionally-specific water quality concerns.\nSWAMP Information Management and Quality Assurance Center (SWAMP IQ): SWAMP IQ conducts a thorough quality assurance review and verification of all of our data before adding the data to our public data systems.\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program: We’re working with the FHAB Program to better understand the nexus between harmful algal blooms and bioaccumulation risks.\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP): We’re beginning to work with SeMMAP to better understand the extent to which environmental DNA (eDNA) can be used to support our monitoring efforts. \n\n\n3.2.3 Other Monitoring Efforts\nWhenever possible, we try to collaborate with other bioaccumulation monitoring programs, including:\n\nRegional Monitoring Program for Water Quality in San Francisco Bay (Bay RMP)\nSouthern California Bight Regional Monitoring Program (Bight RMP)\nThe Delta Regional Monitoring Program (Delta RMP)\nMarine Biotoxin Monitoring Program\nUS EPA National Aquatic Resource Surveys\n\nThe National Coastal Condition Assessment (NCCA)\nThe National Lakes Assessment (NLA)\nThe National Rivers and Streams Assessment (NRSA)\nThe National Wetland Condition Assessment (NWCA)\n\nBiomonitoring California\n\n\n\n3.2.4 Other California State Agencies\nWe work closely with other CA State Agencies to make sure our data is used to protect public health, and is communicated effectively in the public health space so that those that are most impacted by consuming contaminated fish and shellfish can make informed decisions to reduce their exposure to harmful pollutants in fish and shellfish.\n\nThe Office of Environmental Health Hazard Assessment (OEHHA) is the lead state agency for the assessment of health risks posed by environmental contaminants. OEHHA uses our data to develop site specific and statewide fish advisories. \nThe California Department of Public Health (CDPH) is the state department responsible for public health in California. We’re building stronger relationships with some of their programs (e.g., Center for Healthy Communities) to more efficiently and effectively achieve our respective missions.\nThe California Department of Fish and Wildlife (CDFW) is the state department responsible for managing California’s fish, wildlife, and plant resources, and the habitats upon which they depend. We’re building stronger relationships with some of their programs (e.g., Regional monitoring experts, Fishing in the City) to more efficiently and effectively achieve our respective missions.\n\n\n\n3.2.5 Other State and Regional Water Board Programs\nThe State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards) are dedicated to a single mission:\n\nTo preserve, enhance, and restore the quality of California’s water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.\n\nUnder the federal Clean Water Act (CWA) and the state’s pioneering Porter-Cologne Water Quality Control Act, the State and Regional Water Boards have regulatory responsibility for protecting the water quality of nearly 1.6 million acres of lakes, 1.3 million acres of bays and estuaries, 211,000 miles of rivers and streams, and about 1,100 miles of exquisite California coastline! \nThere are a number of programs that partner with us and/or use our data to inform their work, including:\n\nTribal Affairs and their Tribal Beneficial Use efforts\nStatewide Mercury Control Program\nIntegrated Report Program\nTMDL Programs\nBacteria Objectives\nBiostimulation, Cyanotoxins, and Biological Condition Provisions\nOcean Standards Unit\nWetlands Program\nConstituents of Emerging Concern (CEC)\nPer- and Polyfluoroalkyl Substances (PFAS)\n\nFor more details on how our data are used in some of these programs, see:\n\nHow are bioaccumulation data used to protect and restore water quality in CA?\nHow are bioaccumulation data used to protect human health in CA?\nGeneral bioaccumulation data use FAQs\n\n\n\n3.2.6 California Native American Tribes & Tribal Organizations\nCalifornia Indian Environmental Alliance (CIEA): We work closely with our CIEA partners on a number of bioaccumulation related projects. CIEA is also an active member of the STEW!\nWe’re working on building more relationships with California Native American Tribes through the Program’s equity initiatives. See the Tribal Engagement FAQ for more information on how tribes and tribal organizations can engage with the Program and/or the STEW.\n\n\n3.2.7 Other California Water Quality Monitoring Council Workgroups\nEquity Workgroup: STEW Co-chairs are actively involved with this Workgroup and its efforts to operationalize equity in all levels of the Council.\nWe’re working on building stronger partnerships with the following Workgroups:\n\nCalifornia Cyanobacteria and Harmful Algal Bloom (CCHAB) Network\nCalifornia Estuary Monitoring Workgroup\nCalifornia Water Quality Monitoring Collaboration Network\nCalifornia Wetland Monitoring Workgroup\nHealthy Watersheds Partnership\nCalifornia Ocean & Coastal Ecosystem Workgroup\n\n\n\n3.2.8 Academic Institutions\nWe’re working on building more relationships with the academic community so we can leverage our partnerships, advance needed research, and connect with emerging academics and future scientists and leaders of California! Partner academic institutions include:\n\nCSU-WATER (Water Advocacy for Education and Research)\n\nCSU Northridge Water Science Lab\n\nCSU COAST (Council on Ocean Affairs, Science & Technology)\n\nAre you at an academic institution conducting research related to bioaccumulation, fish advisory development, and/or statewide bioaccumulation monitoring efforts - but are not included in the list above? Please let us know by emailing the SWAMP Bioaccumulation Monitoring Program Coordinator & STEW Co-chair at Anna.Holder@waterboards.ca.gov!",
+    "title": "4  Partners",
+    "section": "4.2 Partner Network",
+    "text": "4.2 Partner Network\nBelow is a visual representation of the partners currently in our network as well as descriptions of and links to partner websites.\n\n\n\nNetwork map of STEW and Program partners\n\n\n\n4.2.1 SWAMP Bioaccumulation Monitoring Program Contractors\nMoss Landing Marine Laboratories’ (MLML) Marine Pollution Studies Laboratory (MPSL): Our MLML/MPSL partners lead the sample collection and processing efforts.\nSan Francisco Estuary Institute (SFEI): Our SFEI partners lead the data analysis, interpretation and reporting process, and help Co-chair the STEW!\n\n\n4.2.2 Other SWAMP Programs\nSWAMP Regional Monitoring Programs: Many Regional SWAMP Programs augment the efforts of the Statewide Bioaccumulation Monitoring Program, or conduct bioaccumulation related studies of their own to address regionally-specific water quality concerns.\nSWAMP Information Management and Quality Assurance Center (SWAMP IQ): SWAMP IQ conducts a thorough quality assurance review and verification of all of our data before adding the data to our public data systems.\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program: We’re working with the FHAB Program to better understand the nexus between harmful algal blooms and bioaccumulation risks.\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP): We’re beginning to work with SeMMAP to better understand the extent to which environmental DNA (eDNA) can be used to support our monitoring efforts. \n\n\n4.2.3 Other Monitoring Efforts\nWhenever possible, we try to collaborate with other bioaccumulation monitoring programs, including:\n\nRegional Monitoring Program for Water Quality in San Francisco Bay (Bay RMP)\nSouthern California Bight Regional Monitoring Program (Bight RMP)\nThe Delta Regional Monitoring Program (Delta RMP)\nMarine Biotoxin Monitoring Program\nUS EPA National Aquatic Resource Surveys\n\nThe National Coastal Condition Assessment (NCCA)\nThe National Lakes Assessment (NLA)\nThe National Rivers and Streams Assessment (NRSA)\nThe National Wetland Condition Assessment (NWCA)\n\nBiomonitoring California\n\n\n\n4.2.4 Other California State Agencies\nWe work closely with other CA State Agencies to make sure our data is used to protect public health, and is communicated effectively in the public health space so that those that are most impacted by consuming contaminated fish and shellfish can make informed decisions to reduce their exposure to harmful pollutants in fish and shellfish.\n\nThe Office of Environmental Health Hazard Assessment (OEHHA) is the lead state agency for the assessment of health risks posed by environmental contaminants. OEHHA uses our data to develop site specific and statewide fish advisories. \nThe California Department of Public Health (CDPH) is the state department responsible for public health in California. We’re building stronger relationships with some of their programs (e.g., Center for Healthy Communities) to more efficiently and effectively achieve our respective missions.\nThe California Department of Fish and Wildlife (CDFW) is the state department responsible for managing California’s fish, wildlife, and plant resources, and the habitats upon which they depend. We’re building stronger relationships with some of their programs (e.g., Regional monitoring experts, Fishing in the City) to more efficiently and effectively achieve our respective missions.\n\n\n\n4.2.5 Other State and Regional Water Board Programs\nThe State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards) are dedicated to a single mission:\n\nTo preserve, enhance, and restore the quality of California’s water resources and drinking water for the protection of the environment, public health, and all beneficial uses, and to ensure proper water resource allocation and efficient use, for the benefit of present and future generations.\n\nUnder the federal Clean Water Act (CWA) and the state’s pioneering Porter-Cologne Water Quality Control Act, the State and Regional Water Boards have regulatory responsibility for protecting the water quality of nearly 1.6 million acres of lakes, 1.3 million acres of bays and estuaries, 211,000 miles of rivers and streams, and about 1,100 miles of exquisite California coastline! \nThere are a number of programs that partner with us and/or use our data to inform their work, including:\n\nTribal Affairs and their Tribal Beneficial Use efforts\nStatewide Mercury Control Program\nIntegrated Report Program\nTMDL Programs\nBacteria Objectives\nBiostimulation, Cyanotoxins, and Biological Condition Provisions\nOcean Standards Unit\nWetlands Program\nConstituents of Emerging Concern (CEC)\nPer- and Polyfluoroalkyl Substances (PFAS)\n\nFor more details on how our data are used in some of these programs, see:\n\nHow are bioaccumulation data used to protect and restore water quality in CA?\nHow are bioaccumulation data used to protect human health in CA?\nGeneral bioaccumulation data use FAQs\n\n\n\n4.2.6 California Native American Tribes & Tribal Organizations\nCalifornia Indian Environmental Alliance (CIEA): We work closely with our CIEA partners on a number of bioaccumulation related projects. CIEA is also an active member of the STEW!\nWe’re working on building more relationships with California Native American Tribes through the Program’s equity initiatives. See the Tribal Engagement FAQ for more information on how tribes and tribal organizations can engage with the Program and/or the STEW.\n\n\n4.2.7 Other California Water Quality Monitoring Council Workgroups\nEquity Workgroup: STEW Co-chairs are actively involved with this Workgroup and its efforts to operationalize equity in all levels of the Council.\nWe’re working on building stronger partnerships with the following Workgroups:\n\nCalifornia Cyanobacteria and Harmful Algal Bloom (CCHAB) Network\nCalifornia Estuary Monitoring Workgroup\nCalifornia Water Quality Monitoring Collaboration Network\nCalifornia Wetland Monitoring Workgroup\nHealthy Watersheds Partnership\nCalifornia Ocean & Coastal Ecosystem Workgroup\n\n\n\n4.2.8 Academic Institutions\nWe’re working on building more relationships with the academic community so we can leverage our partnerships, advance needed research, and connect with emerging academics and future scientists and leaders of California! Partner academic institutions include:\n\nCSU-WATER (Water Advocacy for Education and Research)\n\nCSU Northridge Water Science Lab\n\nCSU COAST (Council on Ocean Affairs, Science & Technology)\n\nAre you at an academic institution conducting research related to bioaccumulation, fish advisory development, and/or statewide bioaccumulation monitoring efforts - but are not included in the list above? Please let us know by emailing the SWAMP Bioaccumulation Monitoring Program Coordinator & STEW Co-chair at Anna.Holder@waterboards.ca.gov!",
     "crumbs": [
       "Bioaccumulation",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Who are our partners?</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Partners</span>"
     ]
   },
   {
     "objectID": "tox-workplan.html",
     "href": "tox-workplan.html",
-    "title": "6  Toxicology & Contaminants Workplan",
+    "title": "7  Workplan",
     "section": "",
-    "text": "6.1 Introduction & Workplan Purpose\nIntro text blah blah blah…. SO GREAT!\nSOME OF THIS MIGHT BE MOVED TO BROADER SWAMP INTRO\nThis strategic work plan lays out actions to advance SWAMP’s four thematic priorities and subsidiary goals, which are listed below.\nStructure inspiration: https://www.waterboards.ca.gov/board_info/priorities/docs/workplan_2023.pdf",
+    "text": "This Workplan for the SWAMP Statewide Toxicology & Contaminants (T&C) Program describes strategic projects and actions the Progam intends to implement to advance SWAMP’s four thematic priorities and vision.\nAll of the T&C Program’s priority projects and associated actions are categorized under SWWAMP’s four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see SWAMP Priorities (2025-2030) [ ADD LINK TO PAGE]\nKey: * = highest-priority actions for the current strategic planning period (2025 - 2030)\n\n7.0.1 Program Management\n\n7.0.1.1 Project 1: 1 sentence description of project\n\n7.0.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n7.0.2 Monitoring\n\n7.0.2.1 Project 2: 1 sentence description of project\n\n7.0.2.1.1 Task/Action 2.1: 1-2 sentence description of task\n\n\n\n\n7.0.3 Data Quality & Management\n\n7.0.3.1 Project 3: 1 sentence description of project\n\n7.0.3.1.1 Task/Action 3.1: 1-2 sentence description of task\n\n\n\n\n7.0.4 Communication & Engagement\n\n7.0.4.1 Project 4: 1 sentence description of project\n\n7.0.4.1.1 Task/Action 4.1: 1-2 sentence description of task",
     "crumbs": [
       "Toxicology & Contaminants",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Toxicology & Contaminants Workplan</span>"
-    ]
-  },
-  {
-    "objectID": "tox-workplan.html#strategic-themes",
-    "href": "tox-workplan.html#strategic-themes",
-    "title": "6  Toxicology & Contaminants Workplan",
-    "section": "6.2 Strategic Themes",
-    "text": "6.2 Strategic Themes\nBackground & note that there are things we are always working on an maintaing (e.g. monitoring, SWAMP IQ data process, program management) - below we have highlighted additional projects/actions that staff will tackle in addition to general stuuuf.\nFor each action below, acronyms in brackets list the main responsible organizations within the State Water Board; acronyms are defined at the end of this document. Note the State Water Board’s priorities are subject to change based on need. Also note this work plan does not include everything related to the State Water Board’s core workload or Regional Water Board efforts.\nKey: * = highest-priority actions to work on or complete in 2023\n\n6.2.1 Program Management\n\n6.2.1.1 Project 1: 1 sentence description of project\n\n6.2.1.1.1 Task/Action 1.1: 1-2 sentence description of task\n\n\n\n\n6.2.2 Monitoring\n\n\n6.2.3 Data Quality & Management\n\n\n6.2.4 Communication & Engagement",
-    "crumbs": [
-      "Toxicology & Contaminants",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Toxicology & Contaminants Workplan</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Workplan</span>"
     ]
   },
   {
     "objectID": "contribute.html",
     "href": "contribute.html",
-    "title": "7  Contributing",
+    "title": "8  Contributing",
     "section": "",
-    "text": "7.1 Who can contribute\nCurrently, only members of the SWAMP Team are able to actively contribute to this manual.",
+    "text": "8.1 Who can contribute\nCurrently, only members of the SWAMP Team are able to actively contribute to this manual.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Contributing</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contributing</span>"
     ]
   },
   {
     "objectID": "contribute.html#how-we-contribute",
     "href": "contribute.html#how-we-contribute",
-    "title": "7  Contributing",
-    "section": "7.2 How we contribute",
-    "text": "7.2 How we contribute\nWe develop the content for this SWAMP Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nIf you are NOT a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please [TBD].\n\n7.2.1 Setup\nTo contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
+    "title": "8  Contributing",
+    "section": "8.2 How we contribute",
+    "text": "8.2 How we contribute\nWe develop the content for this SWAMP Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nIf you are NOT a member of the SWAMP Team, but have suggestions for additions or revisions you think should be incorporated into this book, please [TBD].\n\n8.2.1 Setup\nTo contribute, SWAMP Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Contributing</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contributing</span>"
     ]
   }
 ]
