@@ -14,7 +14,7 @@ All of SWAMP's strategic priorities are categorized under the four themes descri
 
 Related to: planning, budgets, contracts, etc.
 
-### **Monitoring**
+### **Monitoring & Assessment**
 
 Related to: data collection & analysis + data use/assessment
 
