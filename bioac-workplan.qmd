@@ -4,21 +4,19 @@ This Workplan for the SWAMP Statewide [Bioaccumulation Monitoring Program](https
 
 All of the Program's priority projects and associated actions are categorized under SWWAMP's four strategic themes: Program Management, Monitoring, Data Quality & Management, Communication & Engagement. For more information on each of these themes, see [SWAMP Priorities (2025-2030)](https://cawaterboarddatacenter.github.io/swamp-strategy/prioriites.html).
 
-Key: \* = highest-priority actions for the current strategic planning period (2025 - 2030)
+Key: **\*** = highest-priority actions for the current strategic planning period (2025 - 2030)
 
-\<span style="color: red;"\>test\</span\>
-
-### Program Management & Coordination
+## Program Management & Coordination
 
 The Program will continue all essential activities to support management and coordination of all operational activities within the Program (e.g. annual strategic planning and implementation, contract and budget tracking and updates, etc.). In addition, the program has committed to implementing the below strategic projects to further advance Program and SWAMP mission and vision:
 
-#### Project 1: Modernize and Streamline Program and STEW Webpages
+### Project 1: Modernize and Streamline Program and STEW Webpages
 
 Action 1.1: **STEW Webpages** - Work with the Water Quality Monitoring Council Director and the Division of Information Technology (DIT) to finalize the implementation of modernized STEW webpages. Although webpage mock-ups were completed and submitted in 2022, they have not yet been implemented. The focus of this action will be to update mock-ups, as needed, and support the Council Director and DIT to finalize and fully transition to the new webpages.
 
 Action 1.2: **Program Webpages** - Work with the SWAMP Lead and DIT to finalize the implementation of modernized Program webpages. Although webpage mock-ups were completed and submitted in 2023, they have not yet been implemented. The focus of this action will be to update mock-ups, as needed, and support SWAMP and DIT to finalize and fully transition to the new webpages.
 
-#### Project 2: Increase coordination with partners
+### Project 2: Increase coordination with partners
 
 Action 2.1: **Water Boards Partners** - Continue outreach to and development of consistent coordination with key State Water Board programs in the Division of Water Quality (DWQ) (e.g. Integrated Report). While lines of communication exist, more regular communication and collaboration on topics related to the Program would be beneficial for all parties, particularly as it related to projects that increase transparency of how Program data are used in DWQ programs, support the implementation of Tribal Beneficial Uses (TBUs), and advance equity overall.
 
@@ -36,7 +34,7 @@ Action 2.2: **Other Bioaccumultion Monitoring and Related Programs** - Continue 
 
 Action 2.3: **California Native American Tribes** - Continue outreach to and development of consistent coordination with California Native American Tribes (Tribes) that have an interest in bioaccumulation monitoring. Specifically, continue to communicate, build relationships, and explore capacity building opportunities with Tribes that participated in the [Bioaccumulation Monitoring Program Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html).
 
-#### Project 3: Support Implementation of AB 762
+### Project 3: Support Implementation of AB 762
 
 In 2019 the California legislature passed and the governor signed into law [Assembly Bill No. 762](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB762) (AB 762), which authorized the Water Board to provide grant funding to County health officials for posting health advisories when the Water Boards and OEHHA determine that consuming certain fish or shellfish presents a significant health risk.
 
@@ -46,7 +44,7 @@ Action 3.1: **Improve coordination with the Division of Financial Assistance (DF
 
 Action 3.2: **Improve coordination with the Office of Environmental Health Hazard Assessment (OEHHA) -** Continue working with OEHHA management and staff to improve coordination, communication, and tracking of locations in need of a new or updated advisory signs.
 
-#### Project 4: Develop Next Cycle of Long-term Plans
+### Project 4: Develop Next Cycle of Long-term Plans
 
 Action 4.1: **Program QAPP (2026-2028 \| 2029-2031)** - Review and update the [Program QAPP](https://www.waterboards.ca.gov/water_issues/programs/swamp/docs/2023/bioaccumulation-monitoring-program-qapp-2023-25.pdf) (2023-2025) to describe all monitoring and analysis components of the Program from 2026 - 2028. Repeat process to develop QAPP for 2029-2031 monitoring and analysis.
 
@@ -58,19 +56,19 @@ Action 4.2: **Long-term Monitoring Plan (2030-2034)** - Begin soliciting and syn
 
 -   *May - Nov 2029: The Long-term Monitoring Plan Development -* The Program and contractors will develop a long-term monitoring plan that reflects and responds to the feedback that was received during the Long-term Monitoring Priorities Assessment Process and SWAMP Priorities at that time. It is recommended a draft be shared in or before Jul 2029, and the final version is published in or before Nov 2029.
 
-### Monitoring & Assessment
+## Monitoring & Assessment
 
 The Program and contractors, with guidance from the STEW, will continue all essential activities to support the monitoring and assessment of status, trends, and impacts of contaminants in fish and shellfish on beneficial uses in California waterbodies, according to the priorities identified in the Program's Long-term Monitoring Plan (2025-2029). \[ INSERT LINK WHEN AVAILABLE \]
 
 In addition, the program has committed to implementing the below strategic projects to further advance Program and SWAMP mission and vision:
 
-#### Project 5: Explore feasability of consistent and robust PFAS monitoring
+### Project 5: Explore feasability of consistent and robust PFAS monitoring
 
 Action 5.1: **PFAS Archives Project** - Continue implementation of a plan to analyze a suite of archive tissue samples for per-and polyfluoroalkyl substances (PFAS). The objective of the PFAS Archive Project is to begin to fill PFAS data gaps throughout the state to support the development of fish consumption thresholds and OEHHA advisory tissue levels (ATLs) for PFAS. State and Regional Water Boards Budgets will enabled analysis of close to 200 samples in 2024. Prioritize the analysis of additional archiveswhen budget permits as well as the development of a data report that summarizes and interprets the results of PFAS Archive data.
 
 Action 5.2: **PFAS Monitoring Feasability** - Once PFAS archive results and interpretation are synthesized, review and discuss the need for and feasibility of including consistent and robust PFAS monitoring into regular statewide monitoring plans.
 
-#### **Project 6: Explore the feasibility of developing and implementing a statewide consumption survey**
+### **Project 6: Explore the feasibility of developing and implementing a statewide consumption survey**
 
 The 2024 Long-term Monitoring Priorities Assessment Process confirmed and quantified the need for a consistent, robust, and statewide consumption survey (or surveys). Of the nine Regional Water Boards and one State Board Division (DWQ) that provided feedback during the process, 90% of respondents (9/10) identified the need to have information on consumption patterns to better inform their work.
 
@@ -86,11 +84,11 @@ One the Region 2 and Region 4 efforts have been completed, review methods and re
 
 Action 6.2: **Identify resources and partners needed for robust and comprehensive implementation of a** **statewide consumption survey** - Present synthesis results (Action 5.1) to SWAMP Mangement, the STEW, and others as appropriate (e.g. DWQ, OEHHA, CDFW) to explore the feasibility of developing and implementing a statewide fish consumption survey, and to identify resources and partners needed for comprehensive implementation.
 
-### Data Quality & Management
+## Data Quality & Management
 
 The Program will continue all essential activities to support the generation and management of quality, statewide bioaccumulation monitoring data. In addition, the program has committed to implementing the below strategic projects to further advance Program and SWAMP mission and vision:
 
-#### Project 7: Continue to Streamline Sample Analysis & QAQC Processes
+### Project 7: Continue to Streamline Sample Analysis & QAQC Processes
 
 The ultimate goal of the below activities is to reduce the amount of time it takes for raw and synthesized data to be available in the [California Environmental Data Exchange Network](http://ceden.org/) (CEDEN) or the [California Open Data Portal](https://data.ca.gov/) after samples are collected in the field. At the time of writing of this Workplan, the Bioaccumulation Monitoring Program has yet to make data collected in 2021 available in CEDEN - a 3+ year delay. Ideally, data would be available in CEDEN and the California Open Data Portal within 1 year after it is collected in the field.
 
@@ -98,7 +96,7 @@ Action 7.1: **Continue to** **Streamline Sample Analysis & Reporting** - Continu
 
 Action 7.2: **CEDEN 2.0** - Support SWAMP IQ in the review and testing of how CEDEN 2.0 reviews and displays tissue data, when requested.
 
-#### Project 8: **Add Data Summaries to the California Open Data Portal**
+### Project 8: **Add Data Summaries to the California Open Data Portal**
 
 Action 8.1: **Add Data Summaries to the California Open Data Portal** - Work with Contractors to make data or interpretive report data summaries available on the California Open Data Portal. More specifically, for this action, the Program commits to:
 
@@ -110,11 +108,11 @@ Action 8.1: **Add Data Summaries to the California Open Data Portal** - Work wit
 
 -   developing and using consistent tags to make it easy to filter search results and reduce the time it takes for the user to find what they are looking for. Example tags include, but are not limited to: “bioaccumulation”, “surface water”, “tissue”, and “fish”, “shellfish” or “bivalves”
 
-### Communication & Engagement
+## Communication & Engagement
 
 The Program will continue all essential activities to support existing communication and engagement efforts. In addition, the program has committed to implementing the below strategic projects to further advance Program and SWAMP mission and vision:
 
-#### Project 9: Continue Realignment Implementation
+### Project 9: Continue Realignment Implementation
 
 Using the [Program Realignment Plan](https://www.waterboards.ca.gov/water_issues/programs/swamp/docs/bioaccumulation_monitoring/bioaccumulation_program_realignment_20201211.pdf) (Dec 2020), [Realignment Plan Update](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/docs/bioaccumulation-program-realignment-20221208.pdf) (Dec 2022), and [Realignment Tribal Engagement Plan](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/docs/bioaccumulationprogram-realignment-tribalengagementplan-2022.pdf) (Mar 2022) as guides, the Realignment process will continue to focus on incorporating community perspectives and needs into Program efforts; with the aim of improving the Program’s monitoring and communication efforts and ensuring the resulting data and information are useful and used by the Water Boards, OEHHA, the public, subsistence-dependent communities, and tribes.
 
@@ -124,7 +122,7 @@ Action 9.2: **Prepare of future Realignment Cycles (2025-2026 \| 2028-2029)** - 
 
 Action 9.3: **Begin the next Realignment Cycle (2027-2029, Region TBD)** - Work with Regional Realignment partners and contractors to implement the three-year Realignment process in the Region.
 
-#### Project 10: Continue Development Data Visualization and Risk Communication Tools
+### Project 10: Continue Development Data Visualization and Risk Communication Tools
 
 Action 10.1: **SWAMP Data Dashboard** - Support the development, review, and testing of the Bioaccumulation Monitoring Program components of the SWAMP Data Dashboard to ensure it elegantly and effectively visualizes, summarizes, and contextualizes all data collected by the Program.
 
