@@ -6,26 +6,26 @@ All of the T&C Program's priority projects and associated actions are categorize
 
 Key: \* = highest-priority actions for the current strategic planning period (2025 - 2030)
 
-### Program Management
+## Program Management & Coordination
 
-#### Project 1: 1 sentence description of project
+### Project 1: 1 sentence description of project
 
-##### Task/Action 1.1: 1-2 sentence description of task
+Task/Action 1.1: 1-2 sentence description of task
 
-### Monitoring & Assessment
+## Monitoring & Assessment
 
-#### Project 2: 1 sentence description of project
+### Project 2: 1 sentence description of project
 
-##### Task/Action 2.1: 1-2 sentence description of task
+Task/Action 2.1: 1-2 sentence description of task
 
-### Data Quality & Management
+## Data Quality & Management
 
-#### Project 3: 1 sentence description of project
+### Project 3: 1 sentence description of project
 
-##### Task/Action 3.1: 1-2 sentence description of task
+Task/Action 3.1: 1-2 sentence description of task
 
-### Communication & Engagement
+## Communication & Engagement
 
-#### Project 4: 1 sentence description of project
+### Project 4: 1 sentence description of project
 
-##### Task/Action 4.1: 1-2 sentence description of task
+Task/Action 4.1: 1-2 sentence description of task
