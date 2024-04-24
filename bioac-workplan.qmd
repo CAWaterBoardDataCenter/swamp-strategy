@@ -91,7 +91,7 @@ The ultimate goal of the below activities is to reduce the amount of time it tak
 
 **Action 7.2:** **CEDEN 2.0** - Support SWAMP IQ in the review and testing of how CEDEN 2.0 reviews and displays tissue data, when requested.
 
-### Project 8: **Add Data Summaries to the California Open Data Portal**
+### Project 8: Add Data Summaries to the California Open Data Portal
 
 **Action 8.1:** **Add Data Summaries to the California Open Data Portal** - Work with Contractors to make data or interpretive report data summaries available on the California Open Data Portal. More specifically, for this action, the Program commits to:
 
