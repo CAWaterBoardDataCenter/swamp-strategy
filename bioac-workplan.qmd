@@ -47,7 +47,9 @@ The ultimate goal of the below activities is to contribute to the coordination, 
 **Action 4.2:** **Long-term Monitoring Plan (2030-2034)** - Begin soliciting and synthesizing feedback to inform the Program's next long-term monitoring plan. A recommended timeline is provided below:
 
 -   *Jul 2028 - Feb 2029: Feedback solicitation* - feedback should be solicited from the Water Boards (e.g., Regions, Integrated Report), Tribes, other California Agencies (e.g. OEHHA, CDFW, CDPH), US EPA, other bioaccumultion monitoring and related programs (e.g. Bay RMP, Bight RMP, Delta RMP), and provide opportunities for others not listed above to provide feedback (e.g. survey, STEW Meeting Open Forums, etc.).
+
 -   *Mar - Apr 2029: Feedback synthesis & discussion* - All feedback should be synthesized and presented to the STEW, and the STEW should be given at least one opportunity to discuss synthesized information, and provide additional recommendations and feedback, as appropriate. The synthesis and STEW recommendations should be presented to SWAMP Management, who will review, consider, and decide the Programs final long-term priorities.
+
 -   *May - Nov 2029: The Long-term Monitoring Plan Development -* The Program and contractors will develop a long-term monitoring plan that reflects and responds to the feedback that was received during the Long-term Monitoring Priorities Assessment Process and SWAMP Priorities at that time. It is recommended a draft be shared in or before Jul 2029, and the final version is published in or before Nov 2029.
 
 ## Monitoring & Assessment
@@ -93,7 +95,7 @@ The ultimate goal of the below activities is to reduce the amount of time it tak
 
 **Action 8.1:** **Add Data Summaries to the California Open Data Portal** - Work with Contractors to make data or interpretive report data summaries available on the California Open Data Portal. More specifically, for this action, the Program commits to:
 
--   uploading accessible reports (in PDF format) as well as summarized tables (in Excel or .csv formats) to the California Open Data Portal
+-   uploading accessible reports (i.e. PDF) as well as summarized tables (i.e. .xlsx, .csv) to the California Open Data Portal
 -   associating those uploads with the raw data (e.g. [tissue results](https://data.ca.gov/dataset/surface-water-aquatic-organism-tissue-sample-results))
 -   developing and using a consistent upload naming convention so it is easy to search for content uploaded by the Program
 -   developing and using consistent tags to make it easy to filter search results and reduce the time it takes for the user to find what they are looking for. Example tags include, but are not limited to: “bioaccumulation”, “surface water”, “tissue”, and “fish”, “shellfish” or “bivalves”
