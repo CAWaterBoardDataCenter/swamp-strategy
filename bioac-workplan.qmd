@@ -23,13 +23,9 @@ The Program will continue all essential activities to support management and coo
 **Action 2.2:** **Other Bioaccumultion Monitoring and Related Programs** - Continue outreach to and development of consistent coordination with other bioaccumulation monitoring programs to more efficiently and effectively use collective resources to accomplish motioning objectives. Other related programs include, but are not limited to:
 
 -   [U.S. EPA National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys)
-
 -   [Regional Monitoring Program for Water Quality in San Francisco Bay (Bay RMP)](https://www.sfei.org/programs/sf-bay-regional-monitoring-program)
-
 -   [Southern California Bight Regional Monitoring Program (Bight RMP)](https://www.sccwrp.org/about/research-areas/regional-monitoring/southern-california-bight-regional-monitoring-program/)
-
 -   [The Delta Regional Monitoring Program (Delta RMP)](https://deltarmp.org/)
-
 -   [Biomonitoring California](https://biomonitoring.ca.gov/)
 
 **Action 2.3: California Native American Tribes** - Continue outreach to and development of consistent coordination with California Native American Tribes (Tribes) that have an interest in bioaccumulation monitoring. Specifically, continue to communicate, build relationships, and explore capacity building opportunities with Tribes that participated in the [Bioaccumulation Monitoring Program Training Series](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/training.html).
@@ -51,9 +47,7 @@ The ultimate goal of the below activities is to contribute to the coordination, 
 **Action 4.2:** **Long-term Monitoring Plan (2030-2034)** - Begin soliciting and synthesizing feedback to inform the Program's next long-term monitoring plan. A recommended timeline is provided below:
 
 -   *Jul 2028 - Feb 2029: Feedback solicitation* - feedback should be solicited from the Water Boards (e.g., Regions, Integrated Report), Tribes, other California Agencies (e.g. OEHHA, CDFW, CDPH), US EPA, other bioaccumultion monitoring and related programs (e.g. Bay RMP, Bight RMP, Delta RMP), and provide opportunities for others not listed above to provide feedback (e.g. survey, STEW Meeting Open Forums, etc.).
-
 -   *Mar - Apr 2029: Feedback synthesis & discussion* - All feedback should be synthesized and presented to the STEW, and the STEW should be given at least one opportunity to discuss synthesized information, and provide additional recommendations and feedback, as appropriate. The synthesis and STEW recommendations should be presented to SWAMP Management, who will review, consider, and decide the Programs final long-term priorities.
-
 -   *May - Nov 2029: The Long-term Monitoring Plan Development -* The Program and contractors will develop a long-term monitoring plan that reflects and responds to the feedback that was received during the Long-term Monitoring Priorities Assessment Process and SWAMP Priorities at that time. It is recommended a draft be shared in or before Jul 2029, and the final version is published in or before Nov 2029.
 
 ## Monitoring & Assessment
@@ -77,7 +71,6 @@ A number of Regions also discussed efforts they have underway to develop or impl
 **Action 6.1:** **Synthesize lessons from recent consumption survey efforts** - A number of consumption surveys have been conducted at California water bodies (see the [California Fish Consumption Study Inventory](https://drive.google.com/file/d/1TPkoFCux16vSa3kSm0oZaySCPXni7kjm/view?usp=sharing). More recently (2022-2024):
 
 -   The San Francisco Regional Water Board (Region 2) has been working with Community Based Organizations (CBOs) in the region to develop a San Francisco Bay consumption survey questionnaire
-
 -   The Los Angeles Regional Water Board (Region 4) has been conducting a subsistence fishing survey for a select number of freshwater bodies in the Region
 
 One the Region 2 and Region 4 efforts have been completed, review methods and results in the context of more historical surveys, discuss with Regional Board SWAMP Coordinators (and/or survey leads) and synthesize methods, costs, lessons, and anything else that might be helpful.
@@ -101,11 +94,8 @@ The ultimate goal of the below activities is to reduce the amount of time it tak
 **Action 8.1:** **Add Data Summaries to the California Open Data Portal** - Work with Contractors to make data or interpretive report data summaries available on the California Open Data Portal. More specifically, for this action, the Program commits to:
 
 -   uploading accessible reports (in PDF format) as well as summarized tables (in Excel or .csv formats) to the California Open Data Portal
-
 -   associating those uploads with the raw data (e.g. [tissue results](https://data.ca.gov/dataset/surface-water-aquatic-organism-tissue-sample-results))
-
 -   developing and using a consistent upload naming convention so it is easy to search for content uploaded by the Program
-
 -   developing and using consistent tags to make it easy to filter search results and reduce the time it takes for the user to find what they are looking for. Example tags include, but are not limited to: “bioaccumulation”, “surface water”, “tissue”, and “fish”, “shellfish” or “bivalves”
 
 ## Communication & Engagement
